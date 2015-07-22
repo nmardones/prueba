@@ -1,0 +1,20 @@
+
+
+git config --global user.name "nmardones"
+git config --global user.email "nmardones.fabre.21@gmail.com"
+
+
+//clonar
+git clone https://github.com/nmardones/prueba
+
+//Actualizar
+git pull https://github.com/nmardones/prueba
+
+//Agregar
+git add
+
+//Commit
+git commit -m "Prueba" -a
+
+//Subir
+git push https://github.com/nombre_de_repo/
